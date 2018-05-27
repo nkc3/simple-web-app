@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Mohanraj Vellingiri Friends !!
+			Chinnireddy Rocks !!
 			</h1>
 		
 			<div>

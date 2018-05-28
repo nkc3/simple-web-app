@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Chinnireddy Rocks !!
+			Chinnireddy Rocks on Cloud!!
 			</h1>
 		
 			<div>

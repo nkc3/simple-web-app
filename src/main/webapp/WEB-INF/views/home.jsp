@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Chinnireddy Rocks on Cloud!!
+			Chinnireddy Rocks on Cloud AWS!!
 			</h1>
 		
 			<div>

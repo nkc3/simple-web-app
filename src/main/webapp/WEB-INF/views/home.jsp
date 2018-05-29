@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Chinnireddy Rocks on Cloud AWS!!
+			Chinnireddy Rocks on Cloud AWS on 29th May 2018!!
 			</h1>
 		
 			<div>
